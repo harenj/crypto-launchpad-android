@@ -25,7 +25,7 @@ import okhttp3.ResponseBody;
 
 public class CoinMarketCapClient {
 
-    private static final int TICKER_CACHE_TTL_MIN = 5;
+    private static final int TICKER_CACHE_TTL_MIN = 1;
 
     private static final Handler handler = new Handler(Looper.getMainLooper());
 
