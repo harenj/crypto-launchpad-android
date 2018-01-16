@@ -25,7 +25,7 @@ under the hood. Those dependencies are included automatically.
     
 ## Usage
 
-Currently there is one website supported, which is [CoinMarketCap](www.coinmarketcap.com).
+Currently there is one website supported, which is [CoinMarketCap](https://coinmarketcap.com).
 
 To get the data, do the following:
 
